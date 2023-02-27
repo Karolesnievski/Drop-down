@@ -60,6 +60,17 @@ body {
   transition: background-color .3s;
 }
 
+.wrapper .nav ol li ul {
+  height: 40px;
+  list-style-type: none;
+}
+
+.wrapper .nav ol li ul li {
+  position: relative;
+  background-color: #cf6969;
+  z-index: 100;
+}
+
 .wrapper .nav ol li:first-child {
   border-left: 1px solid #751b1b;
 }
