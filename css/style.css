@@ -29,4 +29,8 @@ body {
   margin-right: auto;
   font-size: 48px;
 }
+
+.wrapper .header .logo span {
+  color: #cc0808;
+}
 /*# sourceMappingURL=style.css.map */
