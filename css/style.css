@@ -50,4 +50,16 @@ body {
   margin-right: auto;
   text-align: justify;
 }
+
+.wrapper .socials {
+  width: 100%;
+  text-align: center;
+  background-color: #292929;
+}
+
+.wrapper .socials .socialdivs {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
 /*# sourceMappingURL=style.css.map */
