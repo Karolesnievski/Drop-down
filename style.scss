@@ -44,15 +44,24 @@ body {
 			width: 150px;
 			height: 40px;
 			border-right: 1px solid #751b1b;
+			transition: background-color .3s;
 			}
 			li:first-child{
 				border-left: 1px solid #751b1b;
+			}
+			li:hover {
+			background-color: #cf6969;	
 			}
 			a{
 				display: block;
 				text-decoration: none;
 				color: #fff;
+				transition: color .3s;
 			}
+			a:hover {
+				color: #751b1b;
+			}
+		
 		}
 	}
 	.content {

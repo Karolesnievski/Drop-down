@@ -56,16 +56,28 @@ body {
   width: 150px;
   height: 40px;
   border-right: 1px solid #751b1b;
+  -webkit-transition: background-color .3s;
+  transition: background-color .3s;
 }
 
 .wrapper .nav ol li:first-child {
   border-left: 1px solid #751b1b;
 }
 
+.wrapper .nav ol li:hover {
+  background-color: #cf6969;
+}
+
 .wrapper .nav ol a {
   display: block;
   text-decoration: none;
   color: #fff;
+  -webkit-transition: color .3s;
+  transition: color .3s;
+}
+
+.wrapper .nav ol a:hover {
+  color: #751b1b;
 }
 
 .wrapper .content {
