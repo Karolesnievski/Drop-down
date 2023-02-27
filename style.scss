@@ -50,8 +50,13 @@ body {
 				list-style-type: none;
 				li{
 					position: relative;
+					border-top: 1px solid #751b1b;
 					background-color: #cf6969;
 					z-index: 100;
+					
+				}
+				li:hover {
+					background-color: #c34f4f;
 				}
 			}
 			}
