@@ -46,9 +46,28 @@ body {
 		text-align: center;
 		background-color: #292929;
 		.socialdivs {
-			width: 1000px; 
+			width: 1000px;
 			margin-left: auto;
 			margin-right: auto;
+			.cos {
+				float: left;
+				height: 155px;
+				width: 250px;
+				transition: background-color 0.3s;
+			}
+
+			.fb:hover {
+				background-color: #4668b3;
+			}
+			.yt:hover {
+				background-color: #ff0000;
+			}
+			.tw:hover {
+				background-color: #00acee;
+			}
+			.onedrive:hover {
+				background-color: #00a2ed;
+			}
 		}
 	}
 }

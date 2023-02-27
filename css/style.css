@@ -62,4 +62,28 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+.wrapper .socials .socialdivs .cos {
+  float: left;
+  height: 155px;
+  width: 250px;
+  -webkit-transition: background-color 0.3s;
+  transition: background-color 0.3s;
+}
+
+.wrapper .socials .socialdivs .fb:hover {
+  background-color: #4668b3;
+}
+
+.wrapper .socials .socialdivs .yt:hover {
+  background-color: #ff0000;
+}
+
+.wrapper .socials .socialdivs .tw:hover {
+  background-color: #00acee;
+}
+
+.wrapper .socials .socialdivs .onedrive:hover {
+  background-color: #00a2ed;
+}
 /*# sourceMappingURL=style.css.map */
