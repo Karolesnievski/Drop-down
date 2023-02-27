@@ -76,6 +76,10 @@ body {
   background-color: #c34f4f;
 }
 
+.wrapper .nav ol li ul a:hover {
+  color: #451717;
+}
+
 .wrapper .nav ol li:first-child {
   border-left: 1px solid #751b1b;
 }
