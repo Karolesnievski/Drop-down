@@ -54,13 +54,13 @@ body {
 				height: 155px;
 				width: 250px;
 				transition: background-color 0.3s;
-                .icon{
-                    display: flex;
-                    align-items: center;
-                    justify-content: center;
-                    margin-top: 40px;
-                    font-size: 72px;
-                }
+				.icon {
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					margin-top: 40px;
+					font-size: 72px;
+				}
 			}
 
 			.fb:hover {
@@ -76,5 +76,10 @@ body {
 				background-color: #00a2ed;
 			}
 		}
+	}
+	.footer {
+		padding: 30px;
+		text-align: center;
+		background-color: #222;
 	}
 }

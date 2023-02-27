@@ -100,4 +100,10 @@ body {
 .wrapper .socials .socialdivs .onedrive:hover {
   background-color: #00a2ed;
 }
+
+.wrapper .footer {
+  padding: 30px;
+  text-align: center;
+  background-color: #222;
+}
 /*# sourceMappingURL=style.css.map */
