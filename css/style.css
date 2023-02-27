@@ -11,4 +11,19 @@ body {
   background-color: #303030;
   color: #fff;
 }
+
+.wrapper {
+  width: 100%;
+}
+
+.wrapper .header {
+  width: 100%;
+  padding: 40px 0;
+}
+
+.wrapper .header .logo {
+  width: 450px;
+  font-size: 48px;
+  border: 1px solid #fff;
+}
 /*# sourceMappingURL=style.css.map */
