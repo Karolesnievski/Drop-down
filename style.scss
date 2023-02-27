@@ -38,6 +38,12 @@ body {
 			line-height: 200%;
 			font-size: 18px;
 			list-style-type: none;
+			li{
+			float: left;
+			width: 150px;
+			height: 40px;
+			border-right: 1px solid #751b1b;
+			}
 			a{
 				display: block;
 				text-decoration: none;

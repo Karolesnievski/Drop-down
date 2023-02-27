@@ -50,6 +50,13 @@ body {
   list-style-type: none;
 }
 
+.wrapper .nav ol li {
+  float: left;
+  width: 150px;
+  height: 40px;
+  border-right: 1px solid #751b1b;
+}
+
 .wrapper .nav ol a {
   display: block;
   text-decoration: none;
