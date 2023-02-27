@@ -58,6 +58,10 @@ body {
   border-right: 1px solid #751b1b;
 }
 
+.wrapper .nav ol li:first-child {
+  border-left: 1px solid #751b1b;
+}
+
 .wrapper .nav ol a {
   display: block;
   text-decoration: none;
