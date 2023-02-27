@@ -23,6 +23,8 @@ body {
 
 .wrapper .header .logo {
   width: 450px;
+  margin-left: auto;
+  margin-right: auto;
   font-size: 48px;
   border: 1px solid #fff;
 }
