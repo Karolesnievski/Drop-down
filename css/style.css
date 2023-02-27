@@ -44,6 +44,7 @@ body {
 }
 
 .wrapper .nav ol {
+  display: inline-block;
   height: 35px;
   line-height: 200%;
   font-size: 18px;
