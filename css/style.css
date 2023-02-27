@@ -50,6 +50,12 @@ body {
   list-style-type: none;
 }
 
+.wrapper .nav ol a {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+}
+
 .wrapper .content {
   width: 1000px;
   padding-top: 20px;

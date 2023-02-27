@@ -38,6 +38,11 @@ body {
 			line-height: 200%;
 			font-size: 18px;
 			list-style-type: none;
+			a{
+				display: block;
+				text-decoration: none;
+				color: #fff;
+			}
 		}
 	}
 	.content {
