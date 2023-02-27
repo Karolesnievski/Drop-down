@@ -54,6 +54,13 @@ body {
 				height: 155px;
 				width: 250px;
 				transition: background-color 0.3s;
+                .icon{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    margin-top: 40px;
+                    font-size: 72px;
+                }
 			}
 
 			.fb:hover {
