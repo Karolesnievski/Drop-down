@@ -27,13 +27,18 @@ body {
 		}
 	}
 	.nav {
-		
 		width: 100%;
 		padding: 10px 0;
 		text-align: center;
 		border-top: 1px solid #751b1b;
 		border-bottom: 1px solid #751b1b;
 		background-color: #c34f4f;
+		ol {
+			height: 35px;
+			line-height: 200%;
+			font-size: 18px;
+			list-style-type: none;
+		}
 	}
 	.content {
 		width: 1000px;
@@ -83,11 +88,11 @@ body {
 		text-align: center;
 		background-color: #222;
 	}
-    .sticky {
-        position: sticky;
-        left: 0;
-        top: 0;
-        width: 100%;
-        z-index: 100;
-    }
+	.sticky {
+		position: sticky;
+		left: 0;
+		top: 0;
+		width: 100%;
+		z-index: 100;
+	}
 }

@@ -43,6 +43,13 @@ body {
   background-color: #c34f4f;
 }
 
+.wrapper .nav ol {
+  height: 35px;
+  line-height: 200%;
+  font-size: 18px;
+  list-style-type: none;
+}
+
 .wrapper .content {
   width: 1000px;
   padding-top: 20px;
